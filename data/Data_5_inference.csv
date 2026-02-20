@@ -1,9 +1,9 @@
 Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisiting,NumberOfFollowups,ProductPitched,PreferredPropertyStar,MaritalStatus,NumberOfTrips,Passport,PitchSatisfactionScore,OwnCar,NumberOfChildrenVisiting,Designation,MonthlyIncome,ProdTaken
 30.0,Self Enquiry,1,6.0,Salaried,Male,2,4.0,Deluxe,3.0,Divorced,2.0,1,2,1,1.0,Manager,20126.0,0
-27.0,Company Invited,3,26.0,Salaried,Fe Male,2,3.0,Deluxe,3.0,Unmarried,2.0,0,1,1,1.0,Manager,24981.0,0
+27.0,Company Invited,3,26.0,Salaried,Female,2,3.0,Deluxe,3.0,Unmarried,2.0,0,1,1,1.0,Manager,24981.0,0
 34.0,Company Invited,1,9.0,Salaried,Male,2,4.0,Basic,3.0,Married,4.0,0,1,0,0.0,Executive,17979.0,0
 37.0,Self Enquiry,1,17.0,Large Business,Female,4,4.0,Standard,3.0,Divorced,5.0,0,3,0,3.0,Senior Manager,25772.0,0
-50.0,Company Invited,3,18.0,Small Business,Fe Male,3,3.0,Standard,3.0,Unmarried,5.0,0,5,0,0.0,Senior Manager,24208.0,0
+50.0,Company Invited,3,18.0,Small Business,Female,3,3.0,Standard,3.0,Unmarried,5.0,0,5,0,0.0,Senior Manager,24208.0,0
 54.0,Self Enquiry,3,15.0,Small Business,Male,4,4.0,Super Deluxe,3.0,Divorced,7.0,0,3,0,3.0,AVP,30514.0,0
 31.0,Company Invited,3,6.0,Salaried,Female,2,3.0,Basic,4.0,Single,2.0,1,5,1,1.0,Executive,17302.0,1
 37.0,Self Enquiry,1,33.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,8.0,0,3,1,1.0,Manager,24025.0,0
@@ -35,9 +35,9 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 35.0,Self Enquiry,3,21.0,Large Business,Female,3,4.0,Basic,3.0,Married,3.0,1,5,1,2.0,Executive,21257.0,0
 39.0,Self Enquiry,1,6.0,Salaried,Female,3,4.0,Super Deluxe,3.0,Divorced,2.0,0,3,0,1.0,AVP,27742.0,0
 55.0,Self Enquiry,3,9.0,Salaried,Female,3,5.0,Standard,3.0,Divorced,8.0,0,5,1,1.0,Senior Manager,29364.0,0
-42.0,Company Invited,1,9.0,Salaried,Fe Male,4,5.0,Deluxe,3.0,Unmarried,4.0,1,1,0,1.0,Manager,25489.0,0
+42.0,Company Invited,1,9.0,Salaried,Female,4,5.0,Deluxe,3.0,Unmarried,4.0,1,1,0,1.0,Manager,25489.0,0
 29.0,Self Enquiry,1,31.0,Large Business,Female,3,4.0,Basic,4.0,Married,6.0,0,3,1,2.0,Executive,17546.0,1
-60.0,Self Enquiry,3,32.0,Salaried,Fe Male,5,4.0,Standard,5.0,Unmarried,2.0,0,3,1,2.0,Senior Manager,26315.0,0
+60.0,Self Enquiry,3,32.0,Salaried,Female,5,4.0,Standard,5.0,Unmarried,2.0,0,3,1,2.0,Senior Manager,26315.0,0
 24.0,Self Enquiry,1,7.0,Salaried,Male,3,4.0,Basic,3.0,Divorced,3.0,0,4,0,2.0,Executive,19901.0,0
 24.0,Self Enquiry,1,27.0,Large Business,Male,2,4.0,Basic,5.0,Married,1.0,0,3,0,0.0,Executive,17296.0,0
 33.0,Company Invited,3,28.0,Small Business,Male,3,3.0,Deluxe,4.0,Divorced,1.0,0,2,0,1.0,Manager,21146.0,0
@@ -55,14 +55,14 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 35.0,Self Enquiry,1,15.0,Salaried,Female,3,4.0,Standard,3.0,Married,2.0,1,4,1,2.0,Senior Manager,25685.0,0
 45.0,Self Enquiry,1,9.0,Salaried,Female,4,2.0,Basic,3.0,Divorced,3.0,0,4,1,1.0,Executive,20689.0,0
 36.0,Self Enquiry,1,23.0,Salaried,Male,4,4.0,Standard,3.0,Divorced,6.0,1,2,0,2.0,Senior Manager,26310.0,0
-36.0,Self Enquiry,3,7.0,Small Business,Fe Male,4,4.0,Deluxe,3.0,Unmarried,3.0,0,4,1,1.0,Manager,23537.0,0
+36.0,Self Enquiry,3,7.0,Small Business,Female,4,4.0,Deluxe,3.0,Unmarried,3.0,0,4,1,1.0,Manager,23537.0,0
 43.0,Company Invited,1,30.0,Salaried,Male,3,5.0,Deluxe,3.0,Unmarried,3.0,0,3,1,2.0,Manager,23010.0,0
 20.0,Self Enquiry,3,12.0,Salaried,Male,4,4.0,Standard,4.0,Unmarried,2.0,1,4,1,1.0,Senior Manager,21672.0,1
 30.0,Company Invited,3,9.0,Salaried,Male,4,4.0,Deluxe,3.0,Divorced,3.0,0,2,1,2.0,Manager,23327.0,0
 35.0,Self Enquiry,1,6.0,Small Business,Male,3,4.0,Basic,5.0,Single,2.0,0,1,0,2.0,Executive,17450.0,0
 38.0,Self Enquiry,1,8.0,Salaried,Female,3,5.0,Deluxe,3.0,Married,3.0,0,1,0,1.0,Manager,25152.0,0
 33.0,Self Enquiry,3,15.0,Large Business,Female,4,5.0,Deluxe,4.0,Divorced,3.0,1,2,1,1.0,Manager,23906.0,0
-34.0,Self Enquiry,3,23.0,Small Business,Fe Male,4,4.0,Deluxe,5.0,Unmarried,7.0,0,3,1,1.0,Manager,24002.0,1
+34.0,Self Enquiry,3,23.0,Small Business,Female,4,4.0,Deluxe,5.0,Unmarried,7.0,0,3,1,1.0,Manager,24002.0,1
 29.0,Self Enquiry,1,19.0,Salaried,Female,4,4.0,Basic,3.0,Divorced,3.0,1,4,1,1.0,Executive,21193.0,1
 47.0,Self Enquiry,3,7.0,Small Business,Female,4,4.0,Standard,5.0,Married,3.0,0,1,1,3.0,Senior Manager,29131.0,0
 48.0,Self Enquiry,3,8.0,Small Business,Male,2,4.0,Deluxe,4.0,Unmarried,1.0,1,1,1,0.0,Manager,22898.0,1
@@ -104,7 +104,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 35.0,Company Invited,3,8.0,Salaried,Female,3,6.0,Basic,3.0,Unmarried,3.0,0,3,0,2.0,Executive,23122.0,1
 30.0,Self Enquiry,3,10.0,Small Business,Female,4,4.0,Deluxe,3.0,Married,3.0,0,1,0,1.0,Manager,24239.0,0
 32.0,Company Invited,1,6.0,Salaried,Male,3,3.0,Basic,3.0,Married,1.0,0,5,0,0.0,Executive,17314.0,0
-42.0,Company Invited,1,9.0,Salaried,Fe Male,4,5.0,Deluxe,3.0,Unmarried,4.0,1,2,0,1.0,Manager,25489.0,0
+42.0,Company Invited,1,9.0,Salaried,Female,4,5.0,Deluxe,3.0,Unmarried,4.0,1,2,0,1.0,Manager,25489.0,0
 45.0,Self Enquiry,1,11.0,Small Business,Male,3,4.0,Deluxe,4.0,Unmarried,2.0,0,1,1,2.0,Manager,24611.0,0
 39.0,Self Enquiry,3,16.0,Small Business,Male,4,5.0,Basic,4.0,Divorced,2.0,0,4,0,1.0,Executive,21577.0,0
 47.0,Self Enquiry,1,15.0,Salaried,Female,3,3.0,Basic,3.0,Single,5.0,0,3,1,0.0,Executive,17105.0,0
@@ -127,7 +127,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 30.0,Self Enquiry,1,22.0,Salaried,Male,2,3.0,Basic,3.0,Married,2.0,0,1,0,0.0,Executive,17862.0,0
 38.0,Self Enquiry,3,16.0,Small Business,Male,3,4.0,Standard,3.0,Married,1.0,1,3,1,1.0,Senior Manager,23740.0,0
 50.0,Self Enquiry,1,35.0,Salaried,Male,2,4.0,Super Deluxe,3.0,Divorced,1.0,0,5,1,1.0,AVP,32046.0,0
-31.0,Self Enquiry,1,9.0,Small Business,Fe Male,3,5.0,Deluxe,3.0,Unmarried,7.0,1,1,1,2.0,Manager,25555.0,0
+31.0,Self Enquiry,1,9.0,Small Business,Female,3,5.0,Deluxe,3.0,Unmarried,7.0,1,1,1,2.0,Manager,25555.0,0
 36.0,Self Enquiry,3,7.0,Small Business,Male,3,5.0,Deluxe,5.0,Unmarried,2.0,0,2,0,2.0,Manager,22990.0,0
 50.0,Self Enquiry,1,8.0,Small Business,Male,3,3.0,King,3.0,Divorced,3.0,1,2,1,1.0,VP,34237.0,0
 26.0,Self Enquiry,3,17.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,2.0,0,2,0,2.0,Manager,23628.0,0
@@ -162,7 +162,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 33.0,Self Enquiry,3,15.0,Large Business,Female,4,5.0,Deluxe,4.0,Married,3.0,1,1,1,3.0,Manager,23906.0,0
 24.0,Self Enquiry,3,6.0,Large Business,Female,3,3.0,Basic,4.0,Single,2.0,1,4,1,2.0,Executive,18202.0,1
 30.0,Self Enquiry,1,34.0,Small Business,Female,4,4.0,Deluxe,3.0,Married,6.0,0,1,0,2.0,Manager,23013.0,0
-28.0,Self Enquiry,1,14.0,Small Business,Fe Male,3,5.0,Deluxe,5.0,Unmarried,2.0,0,3,1,1.0,Manager,25489.0,0
+28.0,Self Enquiry,1,14.0,Small Business,Female,3,5.0,Deluxe,5.0,Unmarried,2.0,0,3,1,1.0,Manager,25489.0,0
 27.0,Self Enquiry,1,12.0,Salaried,Male,2,4.0,Basic,3.0,Divorced,2.0,0,2,1,1.0,Executive,17539.0,0
 27.0,Self Enquiry,1,9.0,Small Business,Male,3,2.0,Deluxe,3.0,Divorced,3.0,0,3,1,2.0,Manager,24150.0,0
 43.0,Company Invited,3,32.0,Salaried,Male,3,3.0,Super Deluxe,3.0,Divorced,2.0,1,2,0,0.0,AVP,31959.0,0
@@ -263,7 +263,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 37.0,Company Invited,3,14.0,Small Business,Female,3,2.0,Deluxe,5.0,Divorced,4.0,0,1,1,1.0,Manager,23317.0,0
 32.0,Self Enquiry,1,14.0,Small Business,Female,3,4.0,Deluxe,5.0,Divorced,3.0,0,2,1,1.0,Manager,22984.0,0
 30.0,Self Enquiry,2,6.0,Salaried,Male,2,3.0,Basic,3.0,Married,1.0,0,1,0,1.0,Executive,17064.0,0
-45.0,Self Enquiry,2,7.0,Salaried,Fe Male,3,5.0,Deluxe,3.0,Unmarried,6.0,0,5,1,2.0,Manager,24663.0,0
+45.0,Self Enquiry,2,7.0,Salaried,Female,3,5.0,Deluxe,3.0,Unmarried,6.0,0,5,1,2.0,Manager,24663.0,0
 43.0,Company Invited,1,26.0,Small Business,Male,3,2.0,Basic,3.0,Married,8.0,1,3,0,1.0,Executive,21437.0,1
 37.0,Self Enquiry,1,23.0,Salaried,Female,3,2.0,Basic,5.0,Unmarried,3.0,0,2,1,1.0,Executive,21421.0,1
 53.0,Self Enquiry,3,8.0,Salaried,Female,3,4.0,Super Deluxe,3.0,Married,3.0,0,3,0,0.0,AVP,30427.0,0
@@ -282,7 +282,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 31.0,Self Enquiry,3,11.0,Small Business,Female,4,5.0,Deluxe,4.0,Married,3.0,1,3,1,2.0,Manager,23887.0,0
 45.0,Self Enquiry,1,34.0,Large Business,Male,3,3.0,Basic,3.0,Married,5.0,0,3,1,2.0,Executive,17132.0,0
 27.0,Self Enquiry,3,15.0,Large Business,Male,3,5.0,Deluxe,5.0,Unmarried,8.0,0,3,0,1.0,Manager,24004.0,1
-54.0,Self Enquiry,3,7.0,Small Business,Fe Male,3,4.0,Deluxe,5.0,Unmarried,2.0,0,2,1,2.0,Manager,27059.0,0
+54.0,Self Enquiry,3,7.0,Small Business,Female,3,4.0,Deluxe,5.0,Unmarried,2.0,0,2,1,2.0,Manager,27059.0,0
 46.0,Self Enquiry,3,16.0,Small Business,Female,3,4.0,Standard,3.0,Divorced,3.0,1,2,1,1.0,Senior Manager,24071.0,0
 41.0,Company Invited,1,33.0,Small Business,Female,4,5.0,Deluxe,3.0,Divorced,5.0,1,2,1,1.0,Manager,23100.0,0
 42.0,Self Enquiry,3,7.0,Small Business,Male,3,3.0,Standard,5.0,Divorced,3.0,0,3,1,2.0,Senior Manager,27070.0,0
@@ -327,7 +327,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 30.0,Self Enquiry,3,30.0,Salaried,Female,3,5.0,Standard,5.0,Married,3.0,0,3,1,2.0,Senior Manager,26014.0,1
 29.0,Company Invited,1,8.0,Salaried,Female,3,3.0,Basic,4.0,Divorced,1.0,0,5,0,2.0,Executive,18180.0,0
 37.0,Self Enquiry,1,22.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,2.0,0,4,0,2.0,Manager,23512.0,1
-33.0,Company Invited,1,6.0,Salaried,Fe Male,3,3.0,Standard,3.0,Unmarried,2.0,1,1,1,0.0,Senior Manager,28458.0,0
+33.0,Company Invited,1,6.0,Salaried,Female,3,3.0,Standard,3.0,Unmarried,2.0,1,1,1,0.0,Senior Manager,28458.0,0
 35.0,Company Invited,3,11.0,Small Business,Female,4,4.0,Deluxe,3.0,Divorced,2.0,0,2,1,1.0,Manager,25216.0,0
 37.0,Company Invited,3,25.0,Small Business,Male,2,3.0,Standard,4.0,Unmarried,2.0,1,5,0,0.0,Senior Manager,22642.0,0
 34.0,Self Enquiry,1,12.0,Salaried,Female,4,5.0,Basic,3.0,Divorced,3.0,0,2,0,3.0,Executive,21589.0,0
@@ -344,7 +344,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 29.0,Company Invited,3,14.0,Salaried,Male,3,4.0,Deluxe,5.0,Unmarried,2.0,0,3,1,2.0,Manager,23576.0,0
 29.0,Company Invited,1,6.0,Salaried,Male,3,5.0,Basic,3.0,Married,2.0,0,2,1,0.0,Executive,17720.0,0
 35.0,Self Enquiry,1,31.0,Large Business,Male,3,4.0,Standard,4.0,Divorced,4.0,0,3,1,1.0,Senior Manager,25903.0,0
-33.0,Company Invited,1,10.0,Salaried,Fe Male,3,4.0,Basic,3.0,Unmarried,3.0,0,4,1,1.0,Executive,24887.0,1
+33.0,Company Invited,1,10.0,Salaried,Female,3,4.0,Basic,3.0,Unmarried,3.0,0,4,1,1.0,Executive,24887.0,1
 43.0,Self Enquiry,1,36.0,Small Business,Male,3,6.0,Deluxe,3.0,Unmarried,6.0,0,3,1,1.0,Manager,22950.0,0
 56.0,Company Invited,1,9.0,Salaried,Male,4,4.0,Standard,4.0,Married,5.0,0,1,0,2.0,Senior Manager,29654.0,0
 34.0,Company Invited,1,13.0,Salaried,Male,3,5.0,Deluxe,3.0,Single,2.0,1,5,1,1.0,Manager,21074.0,1
@@ -363,7 +363,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 53.0,Company Invited,3,14.0,Small Business,Female,4,4.0,Basic,3.0,Married,4.0,1,4,1,3.0,Executive,27124.0,1
 55.0,Self Enquiry,1,14.0,Small Business,Female,2,3.0,Super Deluxe,3.0,Married,3.0,1,3,1,1.0,AVP,29756.0,0
 34.0,Self Enquiry,1,7.0,Salaried,Male,4,5.0,Basic,5.0,Unmarried,5.0,1,4,0,1.0,Executive,21477.0,0
-35.0,Self Enquiry,1,22.0,Salaried,Fe Male,3,4.0,Standard,4.0,Unmarried,2.0,0,1,1,2.0,Senior Manager,23606.0,0
+35.0,Self Enquiry,1,22.0,Salaried,Female,3,4.0,Standard,4.0,Unmarried,2.0,0,1,1,2.0,Senior Manager,23606.0,0
 25.0,Self Enquiry,3,32.0,Small Business,Female,2,3.0,Deluxe,3.0,Single,2.0,0,4,0,0.0,Manager,21180.0,0
 41.0,Company Invited,1,33.0,Small Business,Female,4,5.0,Deluxe,3.0,Married,5.0,1,1,0,2.0,Manager,23100.0,0
 37.0,Self Enquiry,3,10.0,Salaried,Male,3,5.0,Standard,3.0,Married,3.0,1,1,1,1.0,Senior Manager,29003.0,1
@@ -400,7 +400,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 49.0,Self Enquiry,1,24.0,Salaried,Male,2,4.0,King,3.0,Married,2.0,1,3,1,0.0,VP,34502.0,0
 37.0,Self Enquiry,3,8.0,Small Business,Male,3,3.0,Deluxe,3.0,Divorced,5.0,1,3,0,1.0,Manager,24602.0,0
 34.0,Self Enquiry,1,7.0,Salaried,Male,4,5.0,Basic,5.0,Unmarried,5.0,1,4,1,2.0,Executive,21477.0,0
-36.0,Self Enquiry,1,23.0,Salaried,Fe Male,4,5.0,Standard,4.0,Unmarried,3.0,0,1,1,3.0,Senior Manager,27284.0,0
+36.0,Self Enquiry,1,23.0,Salaried,Female,4,5.0,Standard,4.0,Unmarried,3.0,0,1,1,3.0,Senior Manager,27284.0,0
 52.0,Self Enquiry,3,34.0,Salaried,Male,3,4.0,Deluxe,3.0,Single,3.0,1,5,1,2.0,Manager,32704.0,1
 39.0,Self Enquiry,2,9.0,Salaried,Female,2,2.0,Deluxe,4.0,Divorced,1.0,0,2,1,0.0,Manager,21389.0,0
 32.0,Self Enquiry,1,8.0,Large Business,Male,3,3.0,Basic,5.0,Single,2.0,0,1,1,1.0,Executive,17439.0,0
@@ -425,7 +425,7 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 37.0,Self Enquiry,1,11.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,1.0,0,3,1,2.0,Manager,21347.0,0
 37.0,Self Enquiry,3,17.0,Small Business,Male,3,5.0,Standard,5.0,Married,2.0,0,5,0,1.0,Senior Manager,25772.0,1
 47.0,Company Invited,1,14.0,Small Business,Female,2,4.0,Deluxe,3.0,Married,4.0,0,5,1,1.0,Manager,23936.0,0
-40.0,Company Invited,1,15.0,Small Business,Fe Male,2,3.0,Standard,3.0,Unmarried,1.0,0,4,1,1.0,Senior Manager,28499.0,0
+40.0,Company Invited,1,15.0,Small Business,Female,2,3.0,Standard,3.0,Unmarried,1.0,0,4,1,1.0,Senior Manager,28499.0,0
 45.0,Company Invited,1,9.0,Small Business,Male,3,4.0,Standard,3.0,Single,7.0,1,1,0,2.0,Senior Manager,28887.0,0
 37.0,Company Invited,1,15.0,Salaried,Female,4,2.0,Standard,5.0,Married,2.0,0,3,0,2.0,Senior Manager,30391.0,0
 32.0,Self Enquiry,1,18.0,Small Business,Male,4,4.0,Deluxe,5.0,Married,3.0,1,1,1,2.0,Manager,25511.0,0
@@ -439,10 +439,10 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 50.0,Company Invited,1,25.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,3.0,1,1,0,1.0,Manager,25482.0,0
 41.0,Self Enquiry,1,9.0,Small Business,Female,4,5.0,Deluxe,3.0,Divorced,8.0,0,5,1,1.0,Manager,22126.0,0
 45.0,Company Invited,1,6.0,Salaried,Male,3,4.0,Standard,3.0,Married,4.0,0,1,1,2.0,Senior Manager,25748.0,0
-31.0,Company Invited,3,33.0,Small Business,Fe Male,3,5.0,Deluxe,5.0,Unmarried,7.0,0,1,1,2.0,Manager,25374.0,1
+31.0,Company Invited,3,33.0,Small Business,Female,3,5.0,Deluxe,5.0,Unmarried,7.0,0,1,1,2.0,Manager,25374.0,1
 34.0,Company Invited,1,7.0,Small Business,Male,3,4.0,Deluxe,5.0,Single,1.0,0,1,0,0.0,Manager,20343.0,0
 36.0,Self Enquiry,1,15.0,Salaried,Male,3,2.0,Basic,3.0,Married,3.0,0,5,1,2.0,Executive,20947.0,0
-43.0,Self Enquiry,3,21.0,Small Business,Fe Male,4,5.0,Deluxe,3.0,Unmarried,2.0,0,3,0,1.0,Manager,24922.0,0
+43.0,Self Enquiry,3,21.0,Small Business,Female,4,5.0,Deluxe,3.0,Unmarried,2.0,0,3,0,1.0,Manager,24922.0,0
 28.0,Self Enquiry,1,13.0,Salaried,Male,3,5.0,Basic,3.0,Divorced,3.0,0,2,1,2.0,Executive,21217.0,0
 32.0,Company Invited,1,11.0,Salaried,Female,2,1.0,Basic,3.0,Single,4.0,1,1,0,1.0,Executive,17432.0,1
 32.0,Self Enquiry,1,29.0,Small Business,Male,4,4.0,Deluxe,3.0,Divorced,3.0,1,5,1,1.0,Manager,24857.0,1
@@ -452,10 +452,10 @@ Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisit
 55.0,Self Enquiry,2,26.0,Small Business,Male,3,4.0,Standard,4.0,Married,4.0,0,3,1,2.0,Senior Manager,29403.0,0
 25.0,Self Enquiry,1,24.0,Salaried,Male,4,5.0,Basic,4.0,Married,3.0,0,3,1,2.0,Executive,20805.0,0
 38.0,Company Invited,2,16.0,Salaried,Male,3,3.0,Deluxe,3.0,Married,4.0,0,3,0,2.0,Manager,21077.0,0
-31.0,Company Invited,3,33.0,Small Business,Fe Male,3,5.0,Deluxe,5.0,Unmarried,7.0,0,2,0,2.0,Manager,25374.0,1
+31.0,Company Invited,3,33.0,Small Business,Female,3,5.0,Deluxe,5.0,Unmarried,7.0,0,2,0,2.0,Manager,25374.0,1
 30.0,Company Invited,1,29.0,Salaried,Male,3,5.0,Basic,3.0,Married,2.0,0,3,0,0.0,Executive,17613.0,0
 41.0,Company Invited,1,28.0,Salaried,Female,3,3.0,Deluxe,3.0,Married,4.0,1,5,0,0.0,Manager,20467.0,0
-35.0,Self Enquiry,1,16.0,Small Business,Fe Male,3,5.0,Standard,4.0,Unmarried,3.0,0,1,1,1.0,Senior Manager,27299.0,0
+35.0,Self Enquiry,1,16.0,Small Business,Female,3,5.0,Standard,4.0,Unmarried,3.0,0,1,1,1.0,Senior Manager,27299.0,0
 59.0,Self Enquiry,3,31.0,Salaried,Female,2,3.0,Standard,5.0,Unmarried,1.0,0,3,1,0.0,Senior Manager,22637.0,0
 22.0,Company Invited,1,17.0,Salaried,Female,3,5.0,Basic,3.0,Unmarried,3.0,0,4,1,1.0,Executive,21303.0,1
 28.0,Self Enquiry,3,30.0,Small Business,Female,3,5.0,Deluxe,3.0,Married,3.0,0,1,1,2.0,Manager,22218.0,0
